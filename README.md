@@ -21,6 +21,12 @@ How to perform DES Encryption and Decrytion of .txt file in java :
 
 4.You needs to redirect encrypted.txt location in Encryption button according to you
 
+![capture6](https://cloud.githubusercontent.com/assets/18233358/24830110/0b97d12a-1c9d-11e7-8b00-ac32c5b56328.PNG)
+
+5.And same as need to change location in Decrption button.
+
+
+
 
 
 
