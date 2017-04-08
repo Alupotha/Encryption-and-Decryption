@@ -11,6 +11,13 @@ For further details go to : https://udeshina.blogspot.com/2017/04/encryption-dec
 
 How to perform DES Encryption and Decrytion of .txt file in java :
 
+1.Once you download this zip file and extrat.
+
+2.Open that using NetBeans.
+
+3.
+
+
 
                           
                           
