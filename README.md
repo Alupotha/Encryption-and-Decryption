@@ -29,6 +29,15 @@ How to perform DES Encryption and Decrytion of .txt file in java :
 
 6.And you need to change location in Encrypt file and Decypt file.
 
+![capture8](https://cloud.githubusercontent.com/assets/18233358/24830174/4b0a0ed0-1c9e-11e7-98c0-ea32f2d5e8e7.PNG)
+
+7.If you need you can give key according to your favour.
+
+
+
+Those are the changes you needs to do when you run this file.
+
+
 
 
 
